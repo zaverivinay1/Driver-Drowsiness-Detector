@@ -24,5 +24,4 @@ Project Outcomes ● Explore various ways of computer vision methods to predict 
 Source code - Driver_Drowsiness_Detector_TL.ipynb
 
 # Group 3
-Vinay Zaveri
-Maulik Upala
+Vinay Zaveri, Maulik Upala
