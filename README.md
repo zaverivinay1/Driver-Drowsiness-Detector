@@ -19,3 +19,5 @@ Deliverable
 Train the model for multi class classification approach and identify the class from the folder name of the dataset.
 
 Project Outcomes ● Explore various ways of computer vision methods to predict drowsiness ● Identify various ML and DL approaches to predict drowsiness ● Identify the best DL model to train the data ● Train deep learning model for drowsiness.
+
+Source code - Driver_Drowsiness_Detector_TL.ipynb
