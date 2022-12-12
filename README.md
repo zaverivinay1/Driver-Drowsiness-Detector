@@ -1,5 +1,5 @@
 # Driver-Drowsiness-Detector
-Driver Drowsiness Detector using Transfer Learning AI Technique  
+Driver Drowsiness Detector using Transfer Learning Approach  
 
 # Project Description
 
